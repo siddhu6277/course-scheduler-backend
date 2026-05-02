@@ -1,0 +1,183 @@
+[ {
+  "id" : "admin1",
+  "username" : "admin",
+  "password" : "admin123",
+  "name" : "Admin User",
+  "email" : "admin@university.edu",
+  "role" : "admin"
+}, {
+  "id" : "student1",
+  "username" : "john",
+  "password" : "john123",
+  "name" : "John Doe",
+  "email" : "john@university.edu",
+  "role" : "student"
+}, {
+  "id" : "student2",
+  "username" : "jane",
+  "password" : "jane123",
+  "name" : "Jane Smith",
+  "email" : "jane@university.edu",
+  "role" : "student"
+}, {
+  "id" : "student3",
+  "username" : "mike",
+  "password" : "mike123",
+  "name" : "Mike Johnson",
+  "email" : "mike@university.edu",
+  "role" : "student"
+}, {
+  "id" : "525c0883-d914-4aa0-ba3c-11061d5bc880",
+  "username" : "Siddhu@123",
+  "password" : "student@123",
+  "name" : "siddhu",
+  "email" : "siddhu123@gmail.com",
+  "role" : "student"
+}, {
+  "id" : "a2d9470a-d50f-44f4-be9f-177fb4d09f5c",
+  "username" : "student@university.edu",
+  "password" : "student@123",
+  "name" : "student@university.edu",
+  "email" : "student@123",
+  "role" : "student"
+}, {
+  "id" : "e8496aee-dfa4-4115-aadf-38ca1370288f",
+  "username" : "siddhu",
+  "password" : "student@123",
+  "name" : "student@university.edu",
+  "email" : "student@1234",
+  "role" : "student"
+}, {
+  "id" : "daac8d9a-a96b-4b60-a083-e5574247029e",
+  "username" : "siddhuu",
+  "password" : "siddhu183",
+  "name" : "student@university.edu",
+  "email" : "student@12345",
+  "role" : "student"
+}, {
+  "id" : "cd54a0bd-24cd-4c7f-bd8c-bc2fe6de41ab",
+  "username" : "siddhuuu",
+  "password" : "Siddhu@183",
+  "name" : "student@university.edu",
+  "email" : "student@123456",
+  "role" : "student"
+}, {
+  "id" : "51c0b794-5415-4ff6-ae26-b3336c303ab5",
+  "username" : "Siddhardha",
+  "password" : "Siddhu@1183",
+  "name" : "siddhu@123",
+  "email" : "siddhu897@gmail.com",
+  "role" : "student"
+}, {
+  "id" : "5e755b0f-b508-49ee-b6a1-2b807d7e4c02",
+  "username" : "siddhu@183",
+  "password" : "123456",
+  "name" : "siddhu@123",
+  "email" : "Siddhu@1183",
+  "role" : "student"
+}, {
+  "id" : "2a8d5d74-a447-420a-bd87-ca42d25cdb82",
+  "username" : "siddhu@123",
+  "password" : "123456",
+  "name" : "siddhu@123",
+  "email" : "Siddhu@123",
+  "role" : "student"
+}, {
+  "id" : "359785f2-5137-4ef8-bdd0-4790f8924ae9",
+  "username" : "pandu",
+  "password" : "12345667890",
+  "name" : "siddhardha@123",
+  "email" : "siddhu@1183",
+  "role" : "student"
+}, {
+  "id" : "fed5b5c5-b081-4a66-845f-2209731073b5",
+  "username" : "siddhardha",
+  "password" : "1234567890",
+  "name" : "siddhardha@1234",
+  "email" : "pandu@123",
+  "role" : "student"
+}, {
+  "id" : "a65e9a7a-d1c2-4c6f-a6d1-6b688f4ca096",
+  "username" : "abhi",
+  "password" : "123456789",
+  "name" : "siddhu@123",
+  "email" : "adimin@123",
+  "role" : "student"
+}, {
+  "id" : "8a6c084d-e99b-401c-bc95-e6aa38a6ddb0",
+  "username" : "tharun",
+  "password" : "0987654321",
+  "name" : "panduraj@333",
+  "email" : "mac123@123",
+  "role" : "student"
+}, {
+  "id" : "6f878345-ac86-47b5-adf4-48c047b83ce0",
+  "username" : "siddhardha@1234",
+  "password" : "666666",
+  "name" : "siddhu",
+  "email" : "siddhu@gmail.com",
+  "role" : "student"
+}, {
+  "id" : "63dd6c1c-b632-47d3-aad7-865cf4f98d22",
+  "username" : "harsha",
+  "password" : "666666",
+  "name" : "siddhardha",
+  "email" : "siddhu143@gmail.com",
+  "role" : "student"
+}, {
+  "id" : "c9ed89f5-23b4-42a6-a89e-9e8b94f2620b",
+  "username" : "goat",
+  "password" : "123456",
+  "name" : "siddhardha",
+  "email" : "goat@gmail.com",
+  "role" : "student"
+}, {
+  "id" : "fa9f2bfd-f1bc-4dba-a191-227da74f36ca",
+  "username" : "pranav",
+  "password" : "222222",
+  "name" : "abhiram",
+  "email" : "abhi@gmail.com",
+  "role" : "student"
+}, {
+  "id" : "bcfc78ec-5c45-4062-b2b2-a6a10490ce9b",
+  "username" : "2400080150",
+  "password" : "Siddhu@183",
+  "name" : "siddhu",
+  "email" : "siddhardha123@gmail.com",
+  "role" : "student"
+}, {
+  "id" : "bf5ba7ee-cc86-4e00-ada8-42cbdcdc35b4",
+  "username" : "2400030439",
+  "password" : "123456",
+  "name" : "jaswanth",
+  "email" : "jaswanth@gmail.com",
+  "role" : "student"
+}, {
+  "id" : "61469b76-b7a8-4aae-9f22-caaae56f2f89",
+  "username" : "2400080140",
+  "password" : "1234567",
+  "name" : "harshith",
+  "email" : "harshith@gmail.com",
+  "role" : "student"
+}, {
+  "id" : "3c6ae248-e152-4f9d-9256-3a67fba15ae4",
+  "username" : "testuser",
+  "password" : "test123",
+  "name" : "Test User",
+  "email" : "testuser@example.com",
+  "role" : "student"
+}, {
+  "id" : "fbb2eb87-61ba-4663-87d8-463733b48125",
+  "username" : "2400080125",
+  "password" : "000000000",
+  "name" : "siddhardha",
+  "email" : "chandu@gmail.com",
+  "role" : "student"
+}, {
+  "id" : "c5c9be92-45f7-4e46-bf6c-cc24fd1ef30f",
+  "username" : "venkatesh123",
+  "password" : "Venky@9387",
+  "name" : "venkatesh123",
+  "email" : "venkatesh@123",
+  "role" : "student"
+} ]

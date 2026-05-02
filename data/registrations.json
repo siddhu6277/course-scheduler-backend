@@ -1,0 +1,175 @@
+[ {
+  "id" : "92bede2d-c280-4045-bea7-c4c8da163580",
+  "studentId" : "359785f2-5137-4ef8-bdd0-4790f8924ae9",
+  "courseId" : "CS101",
+  "registeredAt" : "2026-04-08T22:43:46.474666Z",
+  "status" : "active"
+}, {
+  "id" : "76436e10-c404-4ab2-9a7f-0f08f9b7f259",
+  "studentId" : "359785f2-5137-4ef8-bdd0-4790f8924ae9",
+  "courseId" : "CS201",
+  "registeredAt" : "2026-04-08T22:43:48.240860Z",
+  "status" : "active"
+}, {
+  "id" : "97db40fb-1423-4e51-b760-3f591eff577d",
+  "studentId" : "359785f2-5137-4ef8-bdd0-4790f8924ae9",
+  "courseId" : "MATH101",
+  "registeredAt" : "2026-04-08T22:43:48.986912Z",
+  "status" : "active"
+}, {
+  "id" : "03b6ea52-ff32-41f6-a925-c742442d4558",
+  "studentId" : "359785f2-5137-4ef8-bdd0-4790f8924ae9",
+  "courseId" : "MATH201",
+  "registeredAt" : "2026-04-08T22:43:50.018308Z",
+  "status" : "active"
+}, {
+  "id" : "b6ccfe89-bd3a-41b0-a268-19958f533fca",
+  "studentId" : "359785f2-5137-4ef8-bdd0-4790f8924ae9",
+  "courseId" : "ENG101",
+  "registeredAt" : "2026-04-08T22:43:50.540238Z",
+  "status" : "active"
+}, {
+  "id" : "c3851842-4520-4a78-9079-2f546a43cc09",
+  "studentId" : "359785f2-5137-4ef8-bdd0-4790f8924ae9",
+  "courseId" : "PHYS101",
+  "registeredAt" : "2026-04-08T22:43:51.072655Z",
+  "status" : "active"
+}, {
+  "id" : "48f9fe55-9b49-40be-b34a-1d35138f87dd",
+  "studentId" : "359785f2-5137-4ef8-bdd0-4790f8924ae9",
+  "courseId" : "CHEM101",
+  "registeredAt" : "2026-04-08T22:43:51.524646Z",
+  "status" : "active"
+}, {
+  "id" : "7abb7401-f281-4bf9-b218-157082413be1",
+  "studentId" : "6f878345-ac86-47b5-adf4-48c047b83ce0",
+  "courseId" : "CS101",
+  "registeredAt" : "2026-04-27T18:18:20.514246Z",
+  "status" : "active"
+}, {
+  "id" : "6b263a03-e32a-4315-a886-b0579f14fc1d",
+  "studentId" : "6f878345-ac86-47b5-adf4-48c047b83ce0",
+  "courseId" : "MATH101",
+  "registeredAt" : "2026-04-27T18:18:22.295329Z",
+  "status" : "active"
+}, {
+  "id" : "9bff7688-84ce-49dc-aee6-894c8c837270",
+  "studentId" : "6f878345-ac86-47b5-adf4-48c047b83ce0",
+  "courseId" : "ENG101",
+  "registeredAt" : "2026-04-27T18:18:23.872273Z",
+  "status" : "active"
+}, {
+  "id" : "c3cba062-5651-440d-bf86-5e59fef8f21c",
+  "studentId" : "6f878345-ac86-47b5-adf4-48c047b83ce0",
+  "courseId" : "CHEM101",
+  "registeredAt" : "2026-04-27T18:18:25.406249Z",
+  "status" : "active"
+}, {
+  "id" : "15a56ea5-4bda-4e7e-81e3-862c49151556",
+  "studentId" : "6f878345-ac86-47b5-adf4-48c047b83ce0",
+  "courseId" : "CS201",
+  "registeredAt" : "2026-04-27T18:18:27.142934Z",
+  "status" : "active"
+}, {
+  "id" : "c81188c0-ff76-4338-85b9-3d8dff913600",
+  "studentId" : "6f878345-ac86-47b5-adf4-48c047b83ce0",
+  "courseId" : "PHYS101",
+  "registeredAt" : "2026-04-27T18:18:30.856708Z",
+  "status" : "active"
+}, {
+  "id" : "458d6f23-4307-4295-950e-699f1677248b",
+  "studentId" : "bcfc78ec-5c45-4062-b2b2-a6a10490ce9b",
+  "courseId" : "PHYS101",
+  "registeredAt" : "2026-04-28T07:38:07.235916Z",
+  "status" : "active"
+}, {
+  "id" : "0382acc4-c0db-45c6-bf93-2f007e1610f4",
+  "studentId" : "bcfc78ec-5c45-4062-b2b2-a6a10490ce9b",
+  "courseId" : "CS101",
+  "registeredAt" : "2026-04-28T07:38:09.215431Z",
+  "status" : "active"
+}, {
+  "id" : "47fe48b8-c3a3-4ce6-9c7c-145c9023d364",
+  "studentId" : "bcfc78ec-5c45-4062-b2b2-a6a10490ce9b",
+  "courseId" : "MATH101",
+  "registeredAt" : "2026-04-28T07:38:11.208414Z",
+  "status" : "active"
+}, {
+  "id" : "52c77aaa-80cd-4489-ae63-dde3e341fd12",
+  "studentId" : "bcfc78ec-5c45-4062-b2b2-a6a10490ce9b",
+  "courseId" : "MATH201",
+  "registeredAt" : "2026-04-28T07:38:11.924780Z",
+  "status" : "active"
+}, {
+  "id" : "a255c7bc-f798-4795-95ad-00744eee7e41",
+  "studentId" : "bcfc78ec-5c45-4062-b2b2-a6a10490ce9b",
+  "courseId" : "ENG101",
+  "registeredAt" : "2026-04-28T07:38:12.390942Z",
+  "status" : "active"
+}, {
+  "id" : "40df7b43-0220-44c8-95d7-43a4aa3b8cf9",
+  "studentId" : "bcfc78ec-5c45-4062-b2b2-a6a10490ce9b",
+  "courseId" : "CHEM101",
+  "registeredAt" : "2026-04-28T07:38:12.808168Z",
+  "status" : "active"
+}, {
+  "id" : "9d007162-5c57-458c-9e6b-eab3663f9d28",
+  "studentId" : "bcfc78ec-5c45-4062-b2b2-a6a10490ce9b",
+  "courseId" : "BIO101",
+  "registeredAt" : "2026-04-28T07:38:13.207350Z",
+  "status" : "active"
+}, {
+  "id" : "b006731d-5498-4880-a5ad-d0448a8c13a2",
+  "studentId" : "bcfc78ec-5c45-4062-b2b2-a6a10490ce9b",
+  "courseId" : "HIST101",
+  "registeredAt" : "2026-04-28T07:38:13.655121Z",
+  "status" : "active"
+}, {
+  "id" : "a42389fb-8d4c-4333-8870-fb9c59914251",
+  "studentId" : "61469b76-b7a8-4aae-9f22-caaae56f2f89",
+  "courseId" : "CS101",
+  "registeredAt" : "2026-04-28T10:09:25.849196Z",
+  "status" : "active"
+}, {
+  "id" : "5ce0a0c9-9205-4e28-8e67-1fbbdafdba85",
+  "studentId" : "61469b76-b7a8-4aae-9f22-caaae56f2f89",
+  "courseId" : "CS201",
+  "registeredAt" : "2026-04-28T10:09:27.913832Z",
+  "status" : "active"
+}, {
+  "id" : "4fbd371b-ea5f-4668-af22-f3497428a66c",
+  "studentId" : "61469b76-b7a8-4aae-9f22-caaae56f2f89",
+  "courseId" : "MATH201",
+  "registeredAt" : "2026-04-28T10:09:32.366865Z",
+  "status" : "active"
+}, {
+  "id" : "6f2eb91c-dc00-4108-a335-a52a6d7dbe95",
+  "studentId" : "61469b76-b7a8-4aae-9f22-caaae56f2f89",
+  "courseId" : "ENG101",
+  "registeredAt" : "2026-04-28T10:09:33.083518Z",
+  "status" : "active"
+}, {
+  "id" : "ecb4755f-305d-460b-bda7-490ff8a24603",
+  "studentId" : "61469b76-b7a8-4aae-9f22-caaae56f2f89",
+  "courseId" : "PHYS101",
+  "registeredAt" : "2026-04-28T10:09:33.515983Z",
+  "status" : "active"
+}, {
+  "id" : "6ec89303-7313-4b9c-9089-ad69acfd6459",
+  "studentId" : "61469b76-b7a8-4aae-9f22-caaae56f2f89",
+  "courseId" : "CHEM101",
+  "registeredAt" : "2026-04-28T10:09:33.865617Z",
+  "status" : "active"
+}, {
+  "id" : "47335a7c-1e06-4476-98bf-ffbeec7eb110",
+  "studentId" : "61469b76-b7a8-4aae-9f22-caaae56f2f89",
+  "courseId" : "HIST101",
+  "registeredAt" : "2026-04-28T10:10:07.696829Z",
+  "status" : "active"
+}, {
+  "id" : "0bc3cb38-7ba7-4dcd-b9b8-2776dd63f70c",
+  "studentId" : "c5c9be92-45f7-4e46-bf6c-cc24fd1ef30f",
+  "courseId" : "CS101",
+  "registeredAt" : "2026-05-02T18:01:32.229058Z",
+  "status" : "active"
+} ]
